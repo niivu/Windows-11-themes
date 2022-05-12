@@ -1,0 +1,9 @@
+To install this shell pack you need to use 7TSP GUI 2019 Edition found here:
+
+http://fav.me/ddb5026
+
+Installation:
+Open up 7TSP & click Add a Custom Pack & select the shell pack you want to install.
+Click on Start Patching.
+By default 7TSP will create a restore point & install the pack.
+Once installation is done reboot & you're done.
