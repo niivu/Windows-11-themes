@@ -24,8 +24,4 @@ Warning:  If you are new to this or unsure it's always best to create a [System 
 ## APPLYING THIRD PARTY THEMES! 🎨
 In order to apply custom themes you'll need to extract them and copy both the .theme files and the theme folder which has the name of the theme to C:\Windows\Resources\Themes. If you are using UltraUXThemePatcher then you'll just need to go to Settings > Personalization > Themes and apply the theme. If you are using SecureUXTheme, refer to the site's guide.
 
-## DONATIONS! 🙋 ❤️ 🪙
-While the work remains totally free I do accept doantions from those who wish to support the work involved.  Thanks!
-BUY ME A [KO-FI](https://ko-fi.com/niivu)
-
 For more information check the [WIKI](https://github.com/niivu/Windows-11-themes/wiki) page.
